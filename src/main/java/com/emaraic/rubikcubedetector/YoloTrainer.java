@@ -83,7 +83,7 @@ public class YoloTrainer {
     private static final int SEED = 7854;
 
     /*parent Dataset folder "DATA_DIR" contains two subfolder "images" and "annotations" */
-    private static final String DATA_DIR = "C:\\Users\\Emaraic\\Documents\\Dataset";
+    private static final String DATA_DIR = "Dataset";
 
     /* Yolo loss function prameters for more info
     https://stats.stackexchange.com/questions/287486/yolo-loss-function-explanation*/
